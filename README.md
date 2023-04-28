@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+URL: https://react-storybook-component.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -28,6 +30,16 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run storybook`
+
+Runs the storybook in the development mode.\
+Open [http://localhost:6006](http://localhost:6006) to view it in your browser.
+
+### `npm run build-storybook`
+
+Builds the storybook for production to the `dstorybook-static` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
 ### `npm run eject`
 
